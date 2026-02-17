@@ -1,0 +1,1 @@
+(Result<zbus::zvariant::ObjectPath<'_>, zbus::zvariant::Error>, OwnedObjectPath, zbus::zvariant::ObjectPath<'_>)

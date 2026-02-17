@@ -1,0 +1,1 @@
+Cloned<std::iter::Filter<std::collections::hash_map::Iter<'_, std::string::String, AccessPoint>, {closure@src/tui/mod.rs:63:21: 63:25}>>

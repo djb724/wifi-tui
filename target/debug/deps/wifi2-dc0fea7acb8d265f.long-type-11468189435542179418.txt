@@ -1,0 +1,1 @@
+Cloned<std::iter::Filter<std::slice::Iter<'_, AccessPoint>, {closure@src/tui/mod.rs:60:21: 60:25}>>
