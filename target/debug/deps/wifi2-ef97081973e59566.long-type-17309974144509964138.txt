@@ -1,1 +1,0 @@
-(std::string::String, std::string::String, Result<zbus::zvariant::ObjectPath<'_>, zbus::zvariant::Error>)

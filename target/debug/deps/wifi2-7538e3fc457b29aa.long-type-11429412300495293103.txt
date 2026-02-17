@@ -1,1 +1,0 @@
-Cloned<std::iter::Filter<std::slice::Iter<'_, network_manager::AccessPoint>, {closure@src/tui/mod.rs:114:21: 114:25}>>
