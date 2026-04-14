@@ -2,7 +2,7 @@
 
 Connect to wireless access point through NetworkManager.
 
-This project is primarily built just for myself and to build a functioning system with minimal dependencies. Might upload to crates or AUR at some point in the future.
+This project is primarily built just for myself and for the challenge of building a functioning system with minimal dependencies. Might upload to crates or AUR at some point in the future.
 
 ## What is this?
 
